@@ -8,14 +8,14 @@ highlighter: pygments
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Jekyll Bootstrap
+title : 简庐
 tagline: Site Tagline
 author :
-  name : Name Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
-  feedburner : feedname
+  name : 韩光
+  email : sniperstriker@gmail.com
+  github : JoshuaGhost
+  twitter : Joshua_Ghost
+  feedburner : JoshuaGhost
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
@@ -25,7 +25,7 @@ author :
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://username.github.io
+production_url : http://JoshuaGhost.github.io
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
@@ -127,4 +127,7 @@ JB :
   # and include your custom code. Your custom file must be defined at:
   #   ./_includes/custom/[HELPER]
   # where [HELPER] is the name of the helper you are overriding.
-  
+description: >
+    码农 读书 数学 武学 量子力学<br>
+    哲学 佛学 儒学 道学 发发牢骚
+
