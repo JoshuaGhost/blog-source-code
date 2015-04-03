@@ -1,13 +1,20 @@
-# Site settings
-title: 简庐
-email: sniperstriker@gmail.com
-description: >
-    码农 读书 数学 武学 量子力学<br>
-    哲学 佛学 儒学 道学 发发牢骚
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://JoshuaGhost.github.io/"
-twitter_username: Joshua_Ghost
-github_username:  JoshuaGhost
-#site.pages: [about]
-# Build settings
-markdown: kramdown
+# General
+name: Minimal-Block
+description: "Minimalistic, friendly, responsive."
+url: http://localhost:4000
+
+markdown: redcarpet
+highlighter: pygments
+
+paginate: 5
+permalink: /:title
+
+# Social share and comments.
+disqus-id: yourusername
+twitter: yourusername
+github: yourusername
+google: +yourusername
+
+# RSS feed
+rss-feed-limit: 10
+rss-show-full: "no"
